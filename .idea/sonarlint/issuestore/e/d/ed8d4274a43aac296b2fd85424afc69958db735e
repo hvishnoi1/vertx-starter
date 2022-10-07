@@ -1,0 +1,15 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Start" 5 times.(ãï‹Õ8ÂáÏ’»0
+i
+java:S1192%"GDefine a constant instead of duplicating this literal "Failed" 4 times.(ÚÄØ­üÿÿÿÿ8ÃáÏ’»0
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Success" 5 times.(×‘í²8ÃáÏ’»0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûìı¹8çáÏ’»0
+i	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¯¨8îáÏ’»0
+o	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É§ƒşÿÿÿÿ8ıáÏ’»0
+j	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒÎ”8†âÏ’»0
+j	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓáŠ8âÏ’»0
+i	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†°*8˜âÏ’»0
+i	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ô¸+8 âÏ’»0
+^	java:S125‰"<This block of commented-out lines of code should be removed.(‰¸¦úÿÿÿÿÿ8©âÏ’»0
