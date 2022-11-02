@@ -642,7 +642,3 @@ class to start. For example `run com.example.starter.MainVerticle`. To redeploy
 on change add `--redeploy=**/*.class --launcher-class=io.vertx.core.Launcher`
 after `run {fully qualified name}`
 
-## Vertx Web
-
-TODO
-Vertx Web can be found [here]().
